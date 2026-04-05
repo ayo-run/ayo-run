@@ -1,7 +1,7 @@
 ---
 name: Ayos.blog Bugs
 about: Create a report to help improve ayos.blog
-title: "[ayos.blog]"
+title: "[ayos.blog]: what you want to report"
 labels: ''
 assignees: ''
 
